@@ -1,0 +1,80 @@
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: "poppins";
+    
+}
+
+
+.navbar-container{
+    
+    display: flex;
+  align-items: center;
+  
+
+}
+.logo{
+    margin-left: 80px;
+   margin-top: 40px;
+    height: 45px;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    gap:40px;
+    list-style-type: none;
+    margin-top: 55px;
+    margin-left: 10px;
+    color:gray;
+}
+.button-group{
+    margin-top:40px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 500px;
+    margin-right: 20px;
+    background-color: #5F4EBF ;
+    border-radius: 10px;
+}
+.nav-button{
+    border: none;
+    background-color: #5F4EBF ;
+    color:white;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.heading-text{
+    line-height: 1.1;
+    margin-top: 80px;
+    color:#39335df0;
+    font-weight: 600;
+    font-size: 60px;
+    font-family: "poppins";
+
+}
+span{
+    color:#6363c4;
+}
+.description{
+    margin-top: -23px;
+    color: gray;
+}
+.btn{
+    margin-top: 40px;
+    padding:20px 50px 20px 50px;
+    border-radius: 15px;
+}
+li:hover{
+    color: #131212;
+    
+}
+li:first-child{
+    color: #131212;
+}
+
+
+/* donee */
